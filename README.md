@@ -1,2 +1,3 @@
-# shurly
-A simple url shortener 
+# Shurly
+
+## A simple url shortener
